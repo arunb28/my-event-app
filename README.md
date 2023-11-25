@@ -8,18 +8,18 @@ The app features a two-step process: first, create an event with essential detai
    ```bash
    git clone https://github.com/your-username/my-event-app.git
 
-Navigate into the project folder:
-cd my-event-app
+2.Navigate into the project folder:
+   cd my-event-app
 
-Install dependencies:
-npm install
+3.Install dependencies:
+   npm install
 
-Start the application:
-npm start
+4.Start the application:
+   npm start
 
-Open your browser and visit http://localhost:3000
+5.Open your browser and visit http://localhost:3000
 
-Commit and Push README Changes
+6.Commit and Push README Changes
 
 ```bash
 git add README.md
